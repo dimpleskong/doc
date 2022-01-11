@@ -1,4 +1,4 @@
-const sidebar = require('./sideBar')
+const sidebar = require('./sidebar')
 module.exports = {
 	title: 'Dimples - 文档站', // 不要轻易改，这个影响所有评论和issue的关联关系
   base: '/toh/dimples_doc/',
