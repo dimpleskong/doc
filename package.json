@@ -1,0 +1,18 @@
+{
+  "name": "dimples_doc",
+  "version": "1.0.0",
+  "description": "丁普斯文档站",
+  "main": "index.js",
+  "repository": "git@gitlab.dxy.net:f2e/toh/dimples_doc.git",
+  "author": "fantasy <fanzhewen@dxy.cn>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "less": "^4.1.2",
+    "less-loader": "4",
+    "vuepress": "^1.9.5"
+  }
+}
