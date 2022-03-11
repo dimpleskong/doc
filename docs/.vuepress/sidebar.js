@@ -1,26 +1,26 @@
 module.exports = [
   {
-    title: '入职相关',
+    title: '测试技能',
     collapsable: false,
     children: [
-      '/onBoarding/account',
-      '/onBoarding/team',
+      '/onBoarding/apitest',
+      '/onBoarding/uitest',
     ]
   },
-  {
-    title: '项目导航',
-    collapsable: false,
-    children: [
-      '/repo/jobmd',
-      '/repo/insight',
-    ]
-  },
-  {
-    title: '分享指南',
-    collapsable: false,
-    children: [
-      '/share/guide',
-
-    ]
-  }
+  // {
+  //   title: '项目导航',
+  //   collapsable: false,
+  //   children: [
+  //     '/repo/jobmd',
+  //     '/repo/insight',
+  //   ]
+  // },
+  // {
+  //   title: '分享指南',
+  //   collapsable: false,
+  //   children: [
+  //     '/share/guide',
+  //
+  //   ]
+  // }
 ]

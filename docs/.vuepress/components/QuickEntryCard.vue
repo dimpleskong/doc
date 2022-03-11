@@ -14,19 +14,9 @@
       return {
         list: [
         {
-          title: '入职指南',
-          desc: '欢迎来到 YUN HI - QA团队，这里帮助你快速融入团队',
-          path: 'onBoarding/account'
-        },
-        {
-          title: '分享指南',
-          desc: '分享是让我们协作更高效，这里一看就知道',
-          path: 'share/guide'
-        },
-        {
-          title: '项目导航',
-          desc: 'YUN HI 团队业务线所有仓库导航',
-          path: 'repo/jobmd'
+          title: '测试技能',
+          desc: '欢迎来到 Dimples文档站',
+          path: 'onBoarding/apitest'
         },
         ]
       }
